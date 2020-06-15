@@ -9,7 +9,7 @@
   "profiles": {
     "defaults": {
       // Put settings here that you want to apply to all profiles
-      "fontFace": "Cascadia Mono",
+      "fontFace": "Cascadia Code PL",
       "fontSize": 14,
       "cursorShape": "underscore",
       "acrylicOpacity": 0.8,
@@ -43,12 +43,6 @@
         "hidden": false,
         "name": "PowerShell",
         "source": "Windows.Terminal.PowershellCore"
-      },
-      {
-        "guid": "{7197f28f-be79-418b-9fdc-f643a39667ea}",
-        "hidden": false,
-        "name": "AliYun Cloud ECS",
-        "commandline": "ssh root@59.110.65.48"
       }
     ]
   },
